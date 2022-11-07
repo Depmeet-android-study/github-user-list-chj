@@ -1,4 +1,4 @@
-package com.hyunjung.githubuserlist
+package com.hyunjung.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
